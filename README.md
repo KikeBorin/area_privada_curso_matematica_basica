@@ -11,7 +11,7 @@ Se o estudante não tiver cadastro. Terá que ir para outra Tela e realizar o ca
 ![image](https://user-images.githubusercontent.com/103527212/199222205-19a4bc3f-9fdc-4de3-ae70-887174f929de.png)
 
 Depois de realizar o login, o estudante terá acesso ao curso de Matemática Básica. 
-Com uma lista de exercícios e Vídeos explicativos. Se precisar de ajuda, o mesmo poderá entrar em contato, através do Whatsapp.
+Com uma lista de exercícios e Vídeos explicativos. Se precisar de ajuda, o mesmo poderá entrar em contato, através do botão do Whatsapp.
 
 ![image](https://user-images.githubusercontent.com/103527212/199222433-70de9383-5504-42fb-bc83-7ff3ac1fbce4.png)
 
