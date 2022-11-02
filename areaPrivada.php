@@ -272,7 +272,7 @@
 		</article>	
 	</main>
 	<div class="whats">
-		<a href="https://wa.me/5514991389739?text=Olá%20estudante!%20Tudo%20bem?%20Tem%20interesse%20em%20aulas%20particulares?" 
+		<a href="https://wa.me/551499138####?text=Olá%20estudante!%20Tudo%20bem?%20Tem%20interesse%20em%20aulas%20particulares?" 
 		target="_blank"> 
 			<img src="componentesCurso/logo-whatsapp.png" width="50" alt="Dúvidas? Fale conosco!" 
 			title="Dúvidas? Fale conosco!">
